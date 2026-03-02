@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm akazukin0570
 
-<!--
-**akazukin0570/akazukin0570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-driven product engineer exploring privacy-first AI systems and human-centered design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Focus On
+
+- Local LLM architecture
+- Privacy-preserving AI applications
+- Emotion-aware UX design
+- AI-assisted product development
+
+---
+
+## Featured Projects
+
+### 🧠 Local Diary LLM
+A fully local AI-powered long-term reflective journal.
+
+- Built with PyQt6 + Ollama
+- Privacy-first architecture
+- Emotional AI modes (gentle / strict)
+- Designed as a 10-year digital diary system
+
+### 💬 Couple SNS
+Closed communication SNS focused on trust and intimate digital spaces.
+
+### 🧪 Chrome Extension (AdBlock Experiment)
+Exploration of DOM manipulation and browser extension architecture.
+
+---
+
+## Philosophy
+
+AI should enhance human reflection and experience —  
+without compromising privacy.
