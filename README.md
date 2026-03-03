@@ -1,10 +1,10 @@
 ## 🇯🇵 日本語概要
 
-6年以上のITヘルプデスク・運用経験を基盤に、
-コーポレートIT領域で活用可能なローカルLLMプロトタイプを設計・開発しています。
+ITサポートおよびコーポレートIT領域での運用・改善経験を基盤に、
+実務に活かせるローカルAI環境の設計・検証を行っています。
 
 運用理解とAI活用を組み合わせ、
-安全かつ実用的な社内向けAI基盤の構築を目指しています。
+安全かつ現実的な業務改善を目指しています。
 
 ---
 
@@ -12,40 +12,7 @@
 
 # Hi, I'm akazukin0570
 
-IT Helpdesk & Corporate IT oriented engineer with over 6 years of experience in IT operations, support, and process improvement.
-I design and prototype secure, local-first AI systems inspired by real-world IT operations.
-I build practical AI tools that improve operational workflows and simplify complex support tasks.
-
----
-
-## What I Bring
-
-- 300+ monthly ticket handling experience in IT helpdesk
-- Knowledge base standardization & SOP improvement
-- BPO team management (100+ operators)
-- SaaS support & escalation coordination
-- AI-assisted workflow optimization (Cursor / Copilot / Ollama)
-
----
-
-## Technical Focus
-
-- Local LLM architecture (Ollama)
-- Secure AI applications (no external API dependency)
-- Desktop prototyping with Python / PyQt6
-- Process improvement through AI integration
-
----
-
-## Featured Project
-
-### 🏢 Corp Knowledge AI
-A local-first AI prototype inspired by 6+ years of real IT helpdesk and operational experience.
-
-- Fully local LLM execution (Ollama)
-- Secure data handling (no external API calls)
-- Helpdesk-oriented use case design
-- Built with Python / PyQt6
+IT support and corporate IT-oriented engineer with experience in operations and workflow improvement.
 
 ---
 
@@ -54,3 +21,27 @@ A local-first AI prototype inspired by 6+ years of real IT helpdesk and operatio
 Operational IT should be structured, secure, and continuously improved.
 
 I aim to bridge practical IT operations with applied AI systems.
+
+---
+
+## Featured Project
+
+### Local Diary LLM
+Privacy-focused desktop diary application powered by a locally running LLM.
+
+- Built with Python and PyQt6
+- Uses Ollama for local LLM execution
+- No external API calls
+- Includes chat mode, summary generation, theme switching, PDF export, and persistent configuration
+
+https://github.com/akazukin0570/local-diary-llm
+
+---
+
+## Technical Interests
+
+- Python
+- Desktop application development
+- Local LLM environments (Ollama)
+- Prompt design and control
+- AI-assisted development workflows
