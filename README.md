@@ -6,11 +6,15 @@
 運用理解とAI活用を組み合わせ、
 安全かつ実用的な社内向けAI基盤の構築を目指しています。
 
+---
+
+## 🇬🇧 English Summary
+
 # Hi, I'm akazukin0570
 
 IT Helpdesk & Corporate IT oriented engineer with over 6 years of experience in IT operations, support, and process improvement.
-
 I design and prototype secure, local-first AI systems inspired by real-world IT operations.
+I build practical AI tools that improve operational workflows and simplify complex support tasks.
 
 ---
 
