@@ -1,37 +1,44 @@
 # Hi, I'm akazukin0570
 
-AI-driven product engineer exploring privacy-first AI systems and human-centered design.
+IT Helpdesk & Corporate IT oriented engineer with 6+ years of operational experience.
+
+I design and prototype secure, local-first AI systems inspired by real-world IT operations.
 
 ---
 
-## What I Focus On
+## What I Bring
 
-- Local LLM architecture
-- Privacy-preserving AI applications
-- Emotion-aware UX design
-- AI-assisted product development
+- 300+ monthly ticket handling experience in IT helpdesk
+- Knowledge base standardization & SOP improvement
+- BPO team management (100+ operators)
+- SaaS support & escalation coordination
+- AI-assisted workflow optimization (Cursor / Copilot / Ollama)
 
 ---
 
-## Featured Projects
+## Technical Focus
 
-### 🧠 Local Diary LLM
-A fully local AI-powered long-term reflective journal.
+- Local LLM architecture (Ollama)
+- Secure AI applications (no external API dependency)
+- Desktop prototyping with Python / PyQt6
+- Process improvement through AI integration
 
-- Built with PyQt6 + Ollama
-- Privacy-first architecture
-- Emotional AI modes (gentle / strict)
-- Designed as a 10-year digital diary system
+---
 
-### 💬 Couple SNS
-Closed communication SNS focused on trust and intimate digital spaces.
+## Featured Project
 
-### 🧪 Chrome Extension (AdBlock Experiment)
-Exploration of DOM manipulation and browser extension architecture.
+### 🏢 Corp Knowledge AI
+A local-first AI prototype designed for corporate IT knowledge support.
+
+- Fully local LLM execution
+- Secure data handling
+- Helpdesk-oriented use case design
+- Built from real operational experience
 
 ---
 
 ## Philosophy
 
-AI should enhance human reflection and experience —  
-without compromising privacy.
+Operational IT should be structured, secure, and continuously improved.
+
+I aim to bridge practical IT operations with applied AI systems.
