@@ -44,6 +44,7 @@ https://github.com/akazukin0570/local-diary-llm
 ## Technical Interests
 
 - Python
+- PyQt6
 - Desktop application architecture
 - Local LLM environments (Ollama)
 - Prompt engineering and behavior control
